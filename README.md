@@ -147,10 +147,26 @@
 
 ### **задачи**
 
-1)
-2)
-3)
-4)
-5)
-6)
-7)
+### 1) ![1](https://github.com/user-attachments/assets/488247c1-9264-48d3-8f26-ea345ec2ff1e)
+
+### 2) ![2](https://github.com/user-attachments/assets/7fbcf264-452e-4f39-8dbc-ceef9e5c8324)
+
+### 3) ![3](https://github.com/user-attachments/assets/05760486-dd4d-49a8-9d5d-0d9d40ba6432)
+
+### 4) ![4](https://github.com/user-attachments/assets/a545e48e-604e-4f64-b2d6-706da878b750)
+
+### 5) ![5](https://github.com/user-attachments/assets/48d118e3-9535-4af1-adc9-907b181ba8ea)
+
+### 6)
+
+RS‐триггер на двух элементах «И‐НЕ»
+
+![6](https://github.com/user-attachments/assets/ab5d4aaf-d561-4525-9380-022a5af5b000)
+
+ 
+### 7)
+
+D‐триггер
+
+![7](https://github.com/user-attachments/assets/e790609e-6036-43e0-9b80-5db0a1f52204)
+
